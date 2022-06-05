@@ -3,3 +3,25 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  max-width: 960px;
+  margin: auto;
+}
+
+figure {
+  max-width: 960px;
+  margin: auto;
+}
+
+nav {
+  margin-left: 10px;
+  margin-right: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: smaller;
+  max-width: 960px;
+  margin: auto;
+}
